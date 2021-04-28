@@ -276,7 +276,7 @@ fill: var(--color-Lime-Green);
      }
      .footlinks{flex-direction: column;}
 }
-@media screen and (max-width:400px){
+@media screen and (max-width:420px){
     header{
         padding: 5px;
         position: relative;
